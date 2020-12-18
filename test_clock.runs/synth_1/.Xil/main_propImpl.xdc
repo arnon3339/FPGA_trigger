@@ -1,0 +1,7 @@
+set_property SRC_FILE_INFO {cfile:/home/arnon/Projects/Vivado/test_clock/test_clock.srcs/constrs_1/new/con2.xdc rfile:../../../test_clock.srcs/constrs_1/new/con2.xdc id:1} [current_design]
+set_property src_info {type:XDC file:1 line:1 export:INPUT save:INPUT read:READ} [current_design]
+set_property PACKAGE_PIN W5 [get_ports clk_in]
+set_property src_info {type:XDC file:1 line:2 export:INPUT save:INPUT read:READ} [current_design]
+set_property PACKAGE_PIN R2 [get_ports enable]
+set_property src_info {type:XDC file:1 line:3 export:INPUT save:INPUT read:READ} [current_design]
+set_property PACKAGE_PIN K17 [get_ports led]

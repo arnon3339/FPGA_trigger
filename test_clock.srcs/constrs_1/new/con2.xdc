@@ -1,0 +1,6 @@
+set_property PACKAGE_PIN W5 [get_ports clk_in]
+set_property PACKAGE_PIN R2 [get_ports enable]
+set_property PACKAGE_PIN K17 [get_ports led]
+set_property IOSTANDARD LVCMOS33 [get_ports clk_in]
+set_property IOSTANDARD LVCMOS33 [get_ports enable]
+set_property IOSTANDARD LVCMOS33 [get_ports led]
